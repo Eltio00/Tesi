@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1087900417026",
+    "firebase_url": "https://tesi-244c3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tesi-244c3",
+    "storage_bucket": "tesi-244c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087900417026:android:71aea8819b308e5a093b1b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TesiElio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80OFi0eyXqBDYMZMe2SDedvaL_jaEQrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
