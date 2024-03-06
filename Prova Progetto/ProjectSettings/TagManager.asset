@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Glass
+  - Telecomando
+  - GoodCoin
+  - Water
+  - Casa
+  - TV
+  - TV_Cucina
+  - TV_Sala_Giochi
+  - TV_Camera_Letto
+  - TV_Bagno
+  - Audio_Ambiente
+  - Tmp
+  - Mark
+  - Words
+  - Sentence
+  - Flag
+  - Tutorial
+  - Easel
+  - Table
+  - Corinthian
+  - Ionic
+  - VitruvianMan
+  - Comics
+  - Topolino
+  - Onepiece
+  - Snoopy
+  - Superman
+  - Vitruvian
+  - ColumnCorinthian
+  - ColumnIonic
+  - VitruvianText
+  - IonicText
+  - CorinthianText
+  - TopolinoText
+  - OnePieceText
+  - SnoopyText
+  - SuperManText
+  - Triangle
+  - Clipboard
+  - Cone
+  - Arrow0
+  - Arrow1
+  - Arrow2
+  - Arrow3
+  - Tape
+  - Calculator
+  - Guernica
+  - Collectable
+  - labelE
+  - Camino
+  - Pastelli
+  - Fantasmino
+  - Books
+  - EvilCoin
+  - Brucia
+  - Frigo
+  - Sign1
+  - Sign2
+  - Sign3
+  - Sign4
+  - Sign5
+  - Sign6
+  - Sign7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Casa
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
